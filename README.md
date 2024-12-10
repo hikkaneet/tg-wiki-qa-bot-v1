@@ -1,7 +1,9 @@
 # tg-wiki-qa-bot-v1
 
 ## Description
-This project is a Telegram bot that answers questions about the sports games in Russia in 2024 (for demo), using a knowledge base compiled from Wikipedia articles. The bot utilizes natural language processing and vector search technologies to provide accurate answers to user inquiries.
+This project is a Telegram bot that answers questions about the sports games in Russia in 2024 (for demo), using a knowledge base compiled from Wikipedia articles.
+The bot utilizes natural language processing and vector search technologies to provide accurate answers to user inquiries.
+The project is prepared to run in Google Colab or Kaggle.
 
 ## Key Features
 - Automatic data collection and processing from Wikipedia
@@ -24,9 +26,7 @@ This project is a Telegram bot that answers questions about the sports games in 
 
 ## Installation and Running
 1. Install the required dependencies;
-2. Set up the environment variables:
-2.1. OPENAI_API_KEY,
-2.2. BOT_TOKEN (Telegram);
+2. Set up the environment variables: OPENAI_API_KEY, BOT_TOKEN (Telegram);
 3. Run the bot in the last cell.
 
 ## Note
